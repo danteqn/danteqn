@@ -1,4 +1,4 @@
-# Hi
+# Hi 👋
 
 Interested in backend development, Linux, and open-source software.
 
@@ -8,8 +8,6 @@ Interested in backend development, Linux, and open-source software.
 * Linux
 * Open Source
 
-## 📫 Find Me
+## 🤝 Looking to Contribute
 
-* GitHub: https://github.com/danteqn
-
-> Learning by building.
+I'm currently looking for open-source projects to contribute to, especially in backend, Linux, and developer tooling.
