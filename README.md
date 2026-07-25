@@ -1,4 +1,4 @@
-# Dante 👋
+# Hi
 
 Interested in backend development, Linux, and open-source software.
 
